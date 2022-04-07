@@ -1,3 +1,3 @@
 # Programming-of-Robots-SDU
-Group 10 project in Programming of Robots.
-Contains code for two ESP32 microcontrollers, one is in the robot and the other one is in the remote.
+Group 17's project in the course Programming of Robots at SDU.
+Contains code for two ESP32 microcontrollers which currently communicate over WiFi.
