@@ -50,6 +50,9 @@ void loop() {
       Serial.println("WiFi Disconnected");
     }
   }
+
+  
+  delay(3000); // waits for 3 seconds
 }
 
 String httpGETRequest(const char* serverName) {

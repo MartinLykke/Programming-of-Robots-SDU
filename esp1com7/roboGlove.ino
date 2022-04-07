@@ -2,7 +2,15 @@
 #include "ESPAsyncWebServer.h"
 
 #include <Wire.h>
+ #ifdef __cplusplus
+  extern "C" {
+ #endif
 
+  uint8_t temprature_sens_read();
+
+#ifdef __cplusplus
+}
+#endif
 
  // defines pins numbers
 const int trigPin = 12;
@@ -71,5 +79,10 @@ void setup(){
 }
  
 void loop(){
+    Serial.print("Temperature: ");
   
+  // Convert raw temperature in F to Celsius degrees
+  Serial.print((temprature_sens_read() - 32) / 1.8);
+  Serial.println(" C");
+  delay(5000);
 }
