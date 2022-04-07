@@ -23,8 +23,6 @@ Group 17's Programming of robots and other physical devices at SDU. Contains cod
 
 More details will be added later.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
@@ -32,15 +30,11 @@ More details will be added later.
 - [ESP32 Devkitc v4]
 - [Ultra Sonic Sensor]
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
 To be added.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -48,14 +42,10 @@ To be added.
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Martin Lykke - [@your_twitter](https://twitter.com/your_username) - martin@wirksomhed.dk
+Martin Lykke - martin@wirksomhed.dk
 
 Project Link: [https://github.com/MartinLykke/Programming-of-Robots-SDU](https://github.com/MartinLykke/Programming-of-Robots-SDU)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
