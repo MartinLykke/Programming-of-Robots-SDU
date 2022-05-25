@@ -10,7 +10,9 @@
   <h3 align="center">RoboGlove</h3>
 
   <p align="center">
-    Group 17's project in Programming of robots and other physical devices.
+Group 17's Programming of robots and other physical devices at SDU.
+
+The final solution consists of a car and a controller for the car. The main component of the car and controller is a ESP32 microcontrollers(ESP). The ESPs use ESP-NOW, a protocol developed by Espressif that allows numerous ESPs to connect without using WiFi. The protocol, according to Espressif, is identical to the low-power 2.4GHz wireless communication seen in wireless mice. Each ESP has its own MAC Address, which we use to identify it so we can control where the data is sent. The ESPs use two-way communication where both ESPs are senders and receivers.
     <br />
   </p>
 </div>
